@@ -1,0 +1,4 @@
+Every smart contract execution costs gas fees (paid in cryptocurrency).
+Blockchains like Ethereum fees can be high due to congestion (when the
+network gets busy). And as a result of this, we have layer 2 solutions (e.g.,
+Starknet Polygon, Lisk) whose aim is to reduce costs.

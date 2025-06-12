@@ -1,0 +1,1 @@
+Hello Content. this is my text. wait, i would like to append this text to the end of the file. like today if you dont mind 
